@@ -3,7 +3,7 @@
 
 ![](images/undercroft.jpg)
 <p align="center">
-   <a href="#">https://www.theundercroft.net/programming/2020/7/20/baseline-hardware-101 
+   <a href="https://www.theundercroft.net/programming/2020/7/20/baseline-hardware-101">https://www.theundercroft.net/programming/2020/7/20/baseline-hardware-101 
 </a> 
    <br><br>
 </p>
